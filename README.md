@@ -17,7 +17,7 @@ This project is made to simplify the notification of the telegram account custom
 
 - Create a folder for a project: ```mkdir CustomerSpam```
 - Make the new folder active: ```cd CustomerSpam```
-- Clone the repository: ```git clone ...```
+- Clone the repository: ```git clone https://github.com/4rsen1x/TelegramCustomerSpam.git```
 - Enter the code directory: ```cd TelegramCustomerSpam```
 - Create virual environment: ```python -m venv venv```
 - Activate venv: ```venv\Scripts\Activate```
