@@ -1,0 +1,4 @@
+venv/
+*.session
+users.txt
+__pycache__/
